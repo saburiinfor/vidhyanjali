@@ -220,10 +220,13 @@ li.eventItem span:hover {
 }
 
 .arrow1 {
-  display: none;
   clear: both;
   float: left;
   margin: 10px 0px;
+}
+
+.hide {
+  display: none;
 }
 
 .arrow1.active {
